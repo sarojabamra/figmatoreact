@@ -1,0 +1,40 @@
+#navbar {
+    width: 1135px;
+    height: 73px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 170px;
+    justify-content: space-between;
+
+}
+
+.col1 {
+    display: flex;
+    flex-direction: row;
+    gap: 67.58px;
+}
+
+p {
+    color: #FFF;
+font-family: 'Outfit', sans-serif;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.light button {
+    color: #FFF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px 20px;
+    width: 196px;
+height: 73px;
+flex-shrink: 0;
+    background-image: linear-gradient(108deg, #AE4EFE 6.4%, #3C91FD 93.93%);  
+}

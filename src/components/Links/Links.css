@@ -1,0 +1,85 @@
+#contact {
+    margin-top: -140px;
+}
+
+
+.form {
+
+flex-shrink: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.form p {
+    width: 430px;
+height: 17px;
+flex-shrink: 0;
+    text-align: center;
+    color: #FFF;
+font-family: 'Cabin', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 10px 0px;
+}
+
+form {
+    width: 434px;
+    height: 216px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.submit {
+    transform: translateY(17px);
+    color: #FFF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px 20px;
+    width: 464px;
+height: 69px;
+flex-shrink: 0;
+    background-image: linear-gradient(108deg, #AE4EFE 6.4%, #3C91FD 93.93%);
+}
+
+form input {
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #2F2F3E;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: #909099;
+font-family: 'Cabin', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    
+}
+
+form textarea {
+    width: 100%;
+    
+    border: 0;
+    outline: none;
+    background: #2F2F3E;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: #909099;
+font-family: 'Cabin', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    
+}

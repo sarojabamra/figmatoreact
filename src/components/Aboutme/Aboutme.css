@@ -1,0 +1,186 @@
+#about {
+    margin-top: -50px;
+    width: 1440px;
+    
+    position: relative;
+}
+
+#aboutme {
+    width: 1440px;
+height: 1163px;
+flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#aboutme .heading {
+    color: #FFF;
+
+/* sub heading */
+font-family: 'Cabin',sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+}
+
+.college {
+    width: 401px;
+height: 64px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.college .gradient {
+    background: linear-gradient(239deg, #AE4EFE 15.33%, #3C91FD 92.96%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.college .dark {
+    color: #757E8F;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.socs {
+    width: 337px;
+    color: #FFF;
+text-align: center;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.socs span {
+    background: linear-gradient(239deg, #AE4EFE 15.33%, #3C91FD 92.96%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.interests {
+    width: 358px;
+    color: #FFF;
+text-align: center;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.interests span {
+    background: linear-gradient(239deg, #AE4EFE 15.33%, #3C91FD 92.96%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.future {
+    width: 420px;
+    color: #FFF;
+text-align: center;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.future span {
+    background: linear-gradient(239deg, #AE4EFE 15.33%, #3C91FD 92.96%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Cabin', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+
+.shape4 {
+    width: 587px;
+height: 587px;
+flex-shrink: 0;
+margin-top: -550px;
+margin-left: 1300px;
+border-radius: 587px;
+background: linear-gradient(150deg, #AE4EFE 6.92%, #7C6CFE 50.78%, #3C91FD 87.15%);
+filter: blur(22.5px);
+position: absolute;
+
+}
+
+.shape5 {
+    width: 417px;
+height: 417px;
+margin-top: -700px;
+margin-left: -200px;
+flex-shrink: 0;
+border-radius: 587px;
+background: linear-gradient(150deg, #AE4EFE 6.92%, #7C6CFE 50.78%, #3C91FD 87.15%);
+filter: blur(22.5px);
+}
+
+.shape6 {
+    width: 208px;
+height: 208px;
+flex-shrink: 0;
+margin-top: 200px;
+margin-left: 1150px;
+border-radius: 587px;
+background: linear-gradient(150deg, #AE4EFE 6.92%, #7C6CFE 50.78%, #3C91FD 87.15%);
+filter: blur(22.5px);
+}

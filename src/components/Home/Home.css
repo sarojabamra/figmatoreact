@@ -1,0 +1,178 @@
+header{
+    height: 100vh;
+}
+
+
+#home {
+    display: flex;
+    flex-direction: row;
+    width: 1131.534px;
+    height: 572px;
+    flex-shrink: 0;
+    margin-top: -30px;
+
+}
+
+#intro {
+    width: 444px;
+    height: 303px;
+    flex-shrink: 0;
+    margin-top: 8rem;
+    margin-left: 170px;
+}
+
+
+.who {
+    width: 444px;
+height: 58.474px;
+flex-shrink: 0;
+    color: #FFF;
+font-family: 'Outfit', sans-serif;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.who span {
+    
+    background: linear-gradient(101deg, #AE4EFE 41.9%, #3C91FD 79.69%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Outfit', sans-serif;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.capitalised {
+    width: 198px;
+    color: #FFF;
+font-family: 'Cabin', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.9px;
+text-transform: uppercase;
+}
+
+.intro {
+    width: 384.4px;
+    color: #757E8F;
+font-family: Cabin;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.homebtns {
+    display: flex;
+    gap: 20px;
+    padding: 10px 0px;
+}
+
+.resume button {
+    color: #FFF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px 20px;
+    width: 146.167px;
+    height: 69px;
+    flex-shrink: 0;
+    background-image: linear-gradient(108deg, #AE4EFE 6.4%, #3C91FD 93.93%);  
+}
+
+.blog button {
+    color: #FFF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px 20px;
+    width: 265.759px;
+    height: 69px;
+    flex-shrink: 0;
+    background-color: transparent;
+    border-color: #FFF;
+}
+
+.shape1 {
+    width: 457.484px;
+    height: 482px;
+    margin-top: 10rem;
+    margin-left: 15rem;
+    flex-shrink: 0;
+    border-radius: 482px;
+    background: linear-gradient(150deg, #AE4EFE 6.92%, #7C6CFE 50.78%, #3C91FD 87.15%);
+    filter: blur(22.5px);
+    
+}
+
+.shape3 {
+    width: 142.371px;
+    margin-left: 500px;
+height: 150px;
+flex-shrink: 0;
+fill: #FFF;
+background-blend-mode: overlay;
+filter: blur(87.5px);
+position: absolute;
+z-index: 1;
+}
+
+.outline:hover {
+    color: #FFF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px 20px;
+    width: 265.759px;
+height: 69px;
+flex-shrink: 0;
+border-radius: 0px;
+border-color: transparent;
+    background-image: linear-gradient(108deg, #AE4EFE 6.4%, #3C91FD 93.93%);
+    
+}
+
+.fill:hover {
+    background-image: none;
+    background-color: transparent;
+    border-color: #FFF;
+}
+
+
+.shape2 {
+    width: 132.879px;
+    height: 140px;
+    margin-top: -490px;
+    margin-left: 120px;
+flex-shrink: 0;
+border-radius: 482px;
+background: linear-gradient(150deg, #AE4EFE 6.92%, #7C6CFE 50.78%, #3C91FD 87.15%);
+filter: blur(22.5px);
+}
+
+#introshapes {
+    margin-top: -50px;
+}
+
+.vector {
+    position: absolute;
+    margin-top: -1024px;
+    margin-left: -10px;
+    z-index: -1;
+}
